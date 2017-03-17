@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+[img19993.tk](http://img19993.tk)
 
 ## Introduction
 
@@ -25,4 +25,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+MIT © [img1993](http://github.com/zhanglei20)
