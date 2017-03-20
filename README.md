@@ -1,6 +1,6 @@
 # My Resume
 
-[img19993.tk](http://img19993.tk)
+[img19993.cn](http://img19993.cn)
 
 ## Introduction
 
